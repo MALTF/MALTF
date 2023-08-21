@@ -1,6 +1,6 @@
 ### I am a senior CV engineer.
 
-<img src="GitHub-malt3.png" alt="QR code">
+<img src="malt_github_qr_code.png" alt="QR code" width="333">
 
 <!--
 **MALTF/MALTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
