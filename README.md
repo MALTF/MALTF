@@ -1,11 +1,12 @@
-### I have never worked at Apple, Google, Microsoft, or even Alibaba, and have never been engaged in iOS, MacOS, or reverse engineering. Now I am dedicated to Android application development, and I am not an expert in professional compilers, just a senior CV engineer.
+I have never worked at Apple, Google, Microsoft, or even Alibaba, and have never been engaged in iOS, MacOS, or reverse engineering. Now, I am dedicated to Android applications and hybrid development. I am not an expert in professional compilers, but a senior CV engineer.
 
 <img src="malt_github_qr_code.png" alt="QR code" width="333">
 
 <!--
 **MALTF/MALTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a senior CV engineer.
+### I am a senior CV engineer.
+我既没有在苹果谷歌微软工作过，甚至都没有在阿里巴巴工作过，从未从事iOS、macOS和逆向工程，现在我致力于Android应用以及混合开发开发，我不是专业编译器的专家，只是一个高级CV工程师而已。
 
 Here are some ideas to get you started:
 
